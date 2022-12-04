@@ -5,6 +5,7 @@ This Project showcases the popular types of blind box that are being sold across
 The general target customers would be teenagers and young adults as they would typically spend more. As a User, I wanted to be able to view how Popmart showcases their products by doing trailers and exclusive launches
 
 # Features
+Able to resize the resolution
 When hyperlinks on top of the menu bar are hovered around, they will be underlined.
 Allows you to see many different kinds of blind boxes
 
