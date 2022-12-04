@@ -20,6 +20,8 @@
     z-index: 999;
 }
 
+
+
 .services h1{
     font-size: 100px;
 }
@@ -54,7 +56,8 @@ video {
     cursor: pointer;
     text-decoration: none;
     font-size: 140%;
-    
+    text-align:left;
+   
 }
 
 .fa-gem {
