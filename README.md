@@ -16,5 +16,5 @@ Menu bar is included for mobile versions
 
 # Credits
 
-Photos were used from Popmart.
+Photos and some context were used from Popmart.
 I received inspiration from its minimalistic colour choice and layout.
