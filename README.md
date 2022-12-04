@@ -10,6 +10,7 @@ Allows you to see many different kinds of blind boxes
 
 # Credits
 Photos were used from Popmart
+Contents are fictional and does not reflect its actual price.
 I received inspiration from its minimalistic colour choice and layout.
 
 
