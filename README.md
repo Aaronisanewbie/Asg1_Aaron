@@ -14,6 +14,10 @@ Allows you to see many different kinds of blind boxes featuring Dimoos.
 
 Menu bar is included for mobile versions
 
+# Technologies Used
+
+Java , CSS & HTML
+
 # Credits
 
 Photos and some context were used from Popmart.

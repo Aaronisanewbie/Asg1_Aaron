@@ -18,7 +18,9 @@
     z-index: 999;
 }
 
-
+.services h1{
+    font-size: 100px;
+}
 
 video {
     max-width: 100%;
@@ -188,7 +190,7 @@ video {
 }
 
 .main__btn{
-    font-size: 2rem;
+    font-size: 4rem;
     padding: 14px 32px;
     border: none;
     margin-top: 2rem;
@@ -298,7 +300,7 @@ video {
 }
 
 .column img {
-    max-width: 30%;
+    max-width: 60%;
 }
 
 
@@ -343,3 +345,11 @@ video {
 img{
 width: 200px;
 }
+
+footer {
+    text-align: center;
+    padding: 3px;
+    font-size: 40px;
+    background-color: white;
+    color: black;
+  }
